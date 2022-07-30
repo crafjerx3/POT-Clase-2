@@ -3,3 +3,4 @@
 
 * Instalar Node
 * Instalar Visual Studio Code
+* Instalar Cypress
